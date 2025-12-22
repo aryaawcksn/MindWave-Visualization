@@ -133,7 +133,7 @@ export default function Home() {
   animate={{ opacity: 1, y: 0 }}
   transition={{ duration: 0.8, ease: "easeOut", delay: 0.2 }}
 >
-  Advanced EEG Technology for Real-Time Brainwave Insights
+  Advanced EEG Technology for Real-Time Brainwave Insightss
 </motion.p>
 
 
