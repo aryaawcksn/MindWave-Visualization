@@ -273,7 +273,7 @@ export default function Home() {
   >
     Advanced EEG Analytics Powered by{" "}
     <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
-      AI & Data Science
+      AI & Data Sciencee
     </span>
   </motion.h3>
 
