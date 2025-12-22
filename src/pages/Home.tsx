@@ -5,7 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { JackpotStat } from "../components/jackpotStat";
 
 const waves = [
-  { type: "Brain", color: "text-white", font: "font-semibold" },
+  { type: "Brainn", color: "text-white", font: "font-semibold" },
   { type: "Relaxation", color: "text-purple-400", font: "font-semibold" },
   { type: "Focus", color: "text-blue-400", font: "font-semibold"},
   { type: "Creative", color: "text-emerald-400", font: "font-semibold" },
@@ -283,7 +283,7 @@ export default function Home() {
     whileInView={{ opacity: 1, y: 0 }}
     transition={{ duration: 0.8 }}
   >
-    MindWave integrates real-time EEG analysis with AI-driven pattern recognition to help you
+    MindWaveeee integrates real-time EEG analysis with AI-driven pattern recognition to help you
     monitor cognitive performance, relaxation, and stress levels. Our technology transforms raw
     brainwave data into meaningful insights — enabling personal growth and focus optimization.
   </motion.p>
